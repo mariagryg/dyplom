@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#mobileSearch::placeholder {
+  color: black;
+}
+
+#searchBar::placeholder {
+  color: white;
+}
+
+.map-container {
+  width: 50%;
+  float: right;
+}
+
